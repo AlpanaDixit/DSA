@@ -1,0 +1,10 @@
+# For performing binary search prerequisite is that list of keys or elements must be sorted (Array must besorted)
+
+A = {4,8,10,15,18,21,24,27,29,33,34,37,39,41,43}
+
+key = 18
+
+low
+high
+mid = (l + h)/2
+
