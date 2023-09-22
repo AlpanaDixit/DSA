@@ -1,0 +1,41 @@
+A = {8,9,4,7,6,3,10,5,14,2}
+
+key = 5
+
+for(i = 0; i < length; i++)
+{
+    if(key == A[i])
+        return i;
+}
+return -1
+
+Time Complexity: 
+Best Case -: O(1)
+Average Case -: O(n)
+Worst Case -: O(n)
+
+Improved Liner Search
+
+1. Transposition 
+
+for(i=0; i<length; i++)
+{
+    if(key == A[i])
+    {
+        swap(A[i],A[i-1]);
+        return[i-1];
+    }
+}
+
+# Note: This alogorithm make searching faster for next time.
+
+2. Move to Front/Head
+
+for(i =0; i<length; i++)
+{
+    if(key == A[i])
+    {
+        Swap(A[i],A[0]);
+        return 0;
+    }
+}
