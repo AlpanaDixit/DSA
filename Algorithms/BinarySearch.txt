@@ -8,3 +8,5 @@ low
 high
 mid = (l + h)/2
 
+if mid = low
+
