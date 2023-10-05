@@ -62,14 +62,14 @@ void Reverse(struct Array *arr)
         arr->A[i]=B[i];
 }
 
-void Reverse2(struct Array *arr)
-{
-    int i,j;
-    for(i=0,j=arr->length-1;i<j;i++,j--)
-    {
+// void Reverse2(struct Array *arr)
+// {
+//     int i,j;
+//     for(i=0,j=arr->length-1;i<j;i++,j--)
+//     {
         
-    }
-}
+//     }
+// }
 
 int main()
 {
