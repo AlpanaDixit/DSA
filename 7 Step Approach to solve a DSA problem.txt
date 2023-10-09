@@ -1,0 +1,20 @@
+Step 1 -: Get the question
+Problem statement 
+
+Step 2 -: Understand the problem
+Visualise the problem and define questions
+
+Step 3 -: Ask interviewer/person
+Input, Output and Edge cases
+
+Step 4 -: Break problems into modules
+Re-evaluate your problem statement
+
+Step 5 -: Write the Algorithm
+Use pen and paper to define algorithm
+
+Step 6 -: Dry run the algorithm 
+Write test cases and test your algorithm
+
+Step 7 -: Code it now
+Feel free to code now
