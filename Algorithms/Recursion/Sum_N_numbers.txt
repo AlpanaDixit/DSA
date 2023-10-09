@@ -1,0 +1,8 @@
+natural_numners = 1,2,3,4,5,6,7  # first 7 natural numbers
+
+1 + 2 + 3 + 4 + ......... + n
+
+sum(n) = 1 + 2 + 3 + 4 + .........+ (n-1) + n 
+
+sum(n) = sum(n-1) + n    # Recursive Definition
+

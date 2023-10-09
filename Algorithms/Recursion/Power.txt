@@ -1,0 +1,11 @@
+# Exponent (m)^n
+
+2 ^ 5 = 2 * 2 * 2 * 2 * 2
+
+m ^ n = m * m * m * m  * ............. for n times 
+
+Pow(m, n) = (m * m * m * .......... * n-1) * m
+
+Pow(m,n) = Pow(m, n-1) * m
+
+
