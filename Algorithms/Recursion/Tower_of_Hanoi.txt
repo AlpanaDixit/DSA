@@ -1,0 +1,12 @@
+TOH(1, A, B, C):
+    Move Disk from A to C using B
+
+TOH(2, A, B, C):
+    1. TOH(1, A, C, B)
+    2. Move Disk from A to C using B
+    3. TOH(1, B, A, C)
+
+TOH(3, A, B, C)
+    1. TOH(2, A, B, C)
+    2. Move disk from A to C using B
+    3. TOH(2, B, A, C)

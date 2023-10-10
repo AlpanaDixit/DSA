@@ -1,0 +1,3 @@
+nCr = n!/r!(n-r)!
+
+we can use pascal triangles approach to solve this problem recursively 
