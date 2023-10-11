@@ -19,3 +19,5 @@ print(append_fun)
 list = [1,2,3,4,5,6,7]
 list.insert(10,5)
 print(list)
+
+print("Hello")
