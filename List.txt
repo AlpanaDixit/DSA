@@ -8,3 +8,37 @@
 6) Fibonacci Series using Recursion - Memoization
 7) nCr using Recursion
 8) Tower of Hanoi Problem
+
+# Array ADT
+
+1) Inserting in an Array
+2) Deleting from Array
+3) Linear Search
+4) Binary Search
+5) Get() Set() AVG() Max() functions on Array
+6) Reverse and shift an Array
+7) Check if Array is Sorted
+8) Merging Arrays
+9) Set operations on Array - Union, Intersection and Difference
+10) Menu Driver program for array
+11) Finding a single missing element in an array
+12) Finding Multiple missing elements in an array
+13) Finding Duplicates in a sorted array
+14) Finding Duplicates in a sorted Array using Hashing
+15) Finding Duplicates in a Unsorted Array 
+16) Finding Pair of elements with sum K
+17) Finding a Pair of Elements with sum K in Sorted Array
+18) Finding Max and Min in a single scan
+
+# Strings
+
+1) Finding length of a string
+2) Changing Case of a String
+3) Counting Words and Vowels in a String
+4) Validating a String 
+5) Reversing a String
+6) Comparing Strings and Cheking Palindrome
+7) Finding Duplicates in a String
+8) Finding Duplicates in a String using Bitwise Operations
+9) Checking if 2 Strings are Anagram
+10) Permutation of String
