@@ -10,3 +10,6 @@ mid = (l + h)/2
 
 if mid = low
 
+trying to solve this 
+
+commit this code 
