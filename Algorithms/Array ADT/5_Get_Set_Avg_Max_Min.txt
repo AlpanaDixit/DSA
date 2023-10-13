@@ -1,0 +1,40 @@
+1. Get(index)
+
+if (index >=0 && index < length)
+    return A[index]
+
+2. Set(index)
+
+if(index >=0 && index < length)
+    return A[index] = x;
+
+3. Avg()
+
+Total = 0
+for(i=0;i<array.length;i++)
+    Total = Total + A[i]
+return Total/n
+
+4. Max()
+
+Max = A[0]
+for(i=1; i<array.length; i++)
+{
+    if A[i]>Max
+        Max=A[i]
+}
+
+5. Min()
+
+Min=A[0]
+for(i=1;i<array.length;i++)
+if A[i]<Min
+    Min = A[i]
+
+6. Sum()
+
+Total = 0
+for(i=0;i<array.length;i++)
+    Total = Total + A[i]
+return Total
+
